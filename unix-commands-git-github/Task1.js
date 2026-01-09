@@ -3,4 +3,8 @@ let a = {
     name: "Prakash kumar",
     age : 21 ,
     grade: "A",
+    add:{
+        city: "Patna",
+        state: "Bihar"
+    }
 }
