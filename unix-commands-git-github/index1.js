@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // 1 Hello world
 console. log("Node, Ja Backend Started");// console is used to print the data
 
@@ -40,3 +41,6 @@ console.log(users[1]);
 let a = 19;
 let b = 5;
 console.log("Add:", a+b);
+=======
+
+>>>>>>> 061cf82a30d8c995f637e07a2598e5ca4863c43f
